@@ -6,4 +6,4 @@
 
 # Licença
 
-a licença está no modelo MIT
+A licença está no modelo MIT
